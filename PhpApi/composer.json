@@ -1,0 +1,8 @@
+{
+    "name": "ahmedbahssain/my-scandiweb-project",
+    "description": "scandiwebProject",
+    "authors": [],
+    "require": {
+        "ext-mysqli": "*"
+    }
+}

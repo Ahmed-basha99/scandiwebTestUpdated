@@ -1,0 +1,46 @@
+/* Lilita One */
+@import url("https://fonts.googleapis.com/css2?family=Lilita+One&display=swap");
+
+.main {
+    position: relative;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 30vh;
+    min-width: 33vh;
+    max-height: 33vh;
+    max-width: 36vh;
+    margin-top: 40px;
+    margin-left: 62px;
+    font-size: 50%;
+    border-style: groove;
+    border-color: black;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+}
+.row1{
+}
+.details {
+    margin: 12px;
+    display: flex;
+    align-items: center;
+    line-height: 0%;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    padding-left: 5%;
+    font-family: 'Lilita One', cursive;
+}
+
+.delete-checkbox {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 30px;
+    height: 30px;
+    margin-top: 18px;
+}
+.trial {
+    font-size: 15px;
+}

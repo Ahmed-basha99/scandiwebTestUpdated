@@ -1,0 +1,72 @@
+.Main {
+    display: flex;
+    flex-direction: column;
+}
+.head {
+    background-color: #3d3d3d;
+    /*min-height: 10vh;*/
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    font-size: calc(5px + 1vmin);
+    color: white;
+    padding : 20px;
+    border-bottom-style: solid;
+    border-bottom-color : #5f6464;
+    border-bottom-width: medium;
+}
+form {
+    max-width: 450px;
+   margin: 10px auto;
+}
+
+
+h1 {
+    text-align: center;
+    font-weight: 900;
+    font-size: 50px;
+    letter-spacing: -2px;
+    color: #6f6a6a;
+    }
+
+.form .form-group{
+        margin-bottom: 0;
+        position: relative;
+       
+ }
+ label{
+    font-size: 25px;
+
+ }
+ .form-group{
+    margin: 0.7em;
+    padding-right: 0.5cm;
+     position: relative;
+
+ }
+
+ input{
+     float: right;
+     position: absolute;
+     top : 0;
+     right : 0;
+
+ }
+ .myInput{
+     float: right;
+     position: absolute;
+     top : 0;
+     right : 0;
+
+ }
+ .myInputswitch{
+     float: right;
+     position: absolute;
+     top : 0;
+     right : 0;
+     width: 170px;
+ }
+ .container{
+    background-color: #c1c1c1;
+    padding: 0.5em;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px; }
